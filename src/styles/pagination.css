@@ -1,0 +1,12 @@
+button {
+  font-weight: 600;
+  padding: 0px 8px;
+  color: #fff;
+  border-radius: 50%;
+  background: var(--primary-color);
+}
+
+button:focus {
+  background-color: #fff;
+  color: var(--primary-color);
+}
